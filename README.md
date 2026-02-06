@@ -1,1 +1,1 @@
-This project is now in github
+This project is now in github, and the author changed
